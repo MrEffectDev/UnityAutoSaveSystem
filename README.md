@@ -54,10 +54,11 @@ Open **File > Auto Save Settings** to:
 
 ```
 Assets/
-└── Editor/
-    ├── AutoSaveSystem.cs
-    ├── AutoSaveSettings.cs
-    └── AutoSaveNotification.cs
+└── Scripts/
+    └── Editor/
+        ├── AutoSaveSystem.cs
+        ├── AutoSaveSettings.cs
+        └── AutoSaveNotification.cs
 ```
 
 ---
